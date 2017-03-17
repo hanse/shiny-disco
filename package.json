@@ -1,0 +1,29 @@
+{
+  "name": "computas-search",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "annyang": "^2.6.0",
+    "cheerio": "^0.22.0",
+    "debounce": "^1.0.0",
+    "filenamify-url": "^1.0.0",
+    "lunr": "^1.0.0",
+    "node-fetch": "^1.6.3",
+    "p-queue": "^1.0.0",
+    "pageres": "^4.3.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-slick": "^0.14.7",
+    "slick-carousel": "^1.6.0",
+    "striptags": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

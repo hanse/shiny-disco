@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://unpkg.com/ionicons@3.0.0/dist/css/ionicons.min.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+  font-size: 20px;
+  line-height: 2;
+  color: #444;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+a {
+  color: #08466D;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+form {
+  display: flex;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .09);
+  margin: 20px;
+}
+
+input {
+  font-size: 24px;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  appearance: none;
+  width: 100%;
+  outline: none;
+}
+
+input:focus {
+  border-color: #ccc;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  appearance: none;
+  border: 0;
+  cursor: pointer;
+  background: #08466D;
+  outline: none;
+  margin-left: -1px;
+  color: #fff;
+  font-weight: 700;
+}
+
+button > i {
+  font-size: 32px;
+}

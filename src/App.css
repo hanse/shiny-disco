@@ -1,0 +1,45 @@
+.App-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.App-searchResult {
+  position: relative;
+  height: 800px;
+}
+
+.App-searchResult--noResults {
+  text-align: center;
+  font-size: 26px;
+  color: #999;
+}
+
+.App-searchResult p {
+  color: #333;
+  font-size: 14px;
+}
+
+.App-searchResultImage {
+  width: 100%;
+}
+
+.App-goToPageButton {
+  background: rgba(0, 0, 0, .8);
+  color: #fff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 15px;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
+
+kbd {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .1);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 2px 10px;
+  font-weight: 700;
+}

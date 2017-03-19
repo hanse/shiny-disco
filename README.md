@@ -10,7 +10,7 @@ yarn start
 ```
 
 ## Live Demo
-A live demo of the system is available at https://cx.koren.im. It probably works best in Google Chrome.
+A live demo of the system is available at http://cx.koren.im. It probably works best in Google Chrome.
 
 ![Screenshot](https://d3uepj124s5rcx.cloudfront.net/items/0M2E2Z2y2m2j3V1S1N3w/Screen%20Shot%202017-03-17%20at%2016.46.31.png)
 
